@@ -1,0 +1,22 @@
+{
+  "name": "mun-backend-sovellus",
+  "version": "1.0.0",
+  "description": "Tässä mun backend softa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlliLiukkonen/mun-backend-sovellus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlliLiukkonen/mun-backend-sovellus/issues"
+  },
+  "homepage": "https://github.com/OlliLiukkonen/mun-backend-sovellus#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
